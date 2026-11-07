@@ -1,0 +1,20 @@
+{
+  "name": "ts-permissions-pol",
+  "version": "1.0.0",
+  "description": "Permissions Policy header builder (formerly Feature-Policy)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "permissions-policy", "security", "web", "headers"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-permissions-pol.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
